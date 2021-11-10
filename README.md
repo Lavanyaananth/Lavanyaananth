@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Lavanyaananth/Lavanyaananth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👩🏻‍💻 Frontend Developer
 - 🌱 I’m currently learning PWAs
 - 💬 Ask me about anything tech related, I am happy to help
