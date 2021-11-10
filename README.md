@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 👩🏻‍💻 Frontend Developer
-- 🌱 I’m currently learning Advanced React concepts and PWAs
+- 👩🏻‍💻 I'm Lavanya - Frontend Developer
+- 🛠 I’m currently working with Javascript,React, Gatsby etc
+- 🌱 Learning Advanced React concepts and PWAs
 - 💬 Ask me about anything tech related, I am happy to help
 - 📫 Reach me out @ lavanyaanand.11@gmail.com
 - 💼 Check my [Portfolio](https://lavanya.work/)
