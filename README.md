@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👩🏻‍💻 Frontend Developer
-- 🌱 I’m currently learning PWAs
+- 🌱 I’m currently learning Advanced React concepts and PWAs
 - 💬 Ask me about anything tech related, I am happy to help
 - 📫 Reach me out @ lavanyaanand.11@gmail.com
 - 💼 Check my Profile here : https://lavanya.work/
