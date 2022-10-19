@@ -2,7 +2,6 @@
 
 - 👩🏻‍💻 I'm Lavanya - Frontend Developer
 - 💻 I’m currently working with Javascript and ReactJS
-- 🛠 I'm currently doing #100DaysOfAlgorithmSolving
 - 🌱 Learning advanced JavaScript
 - 💬 Ask me about anything JavaScript and React related, I am happy to help & mentor
 - 📫 Reach me out @ lavanyaanand.11@gmail.com
