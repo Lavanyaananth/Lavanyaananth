@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 I'm Lavanya - Frontend Developer
 - 💻 I’m currently working with Javascript, typescript and ReactJS
-- 🌱 Learning advanced Typescript and Python
+- 🌱 Learning Typescript and Python
 - 💬 Ask me about anything JavaScript and React related, I am happy to help & mentor
 - 📫 Reach me out @ lavanyaanand.11@gmail.com
 - 💼 Check my [Portfolio](https://lavanya.vercel.app/)
